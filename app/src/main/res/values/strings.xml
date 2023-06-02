@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ASMTest</string>
+    <string name="btn1_text">Frag_1</string>
+    <string name="btn2_text">Frag_2</string>
+    <string name="textview_frag1">hw</string>
+    <string name="textview_frag2">hello world</string>
 </resources>
